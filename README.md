@@ -51,6 +51,9 @@ This graphical representation provides a quick and intuitive understanding of th
 ##Conclusion:
 This project demonstrates the practical application of API integration and data visualization using Python. It showcases how real-time data can be accessed, processed, and presented in an insightful way. The integration of OpenWeatherMap API with visualization tools not only makes the output informative but also appealing to a non-technical audience.
 
+##OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/8b0d812d-f248-49dd-a8fc-be1388738740)
 
 
 
