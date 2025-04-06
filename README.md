@@ -1,0 +1,14 @@
+API Integration and Data Visualization.
+
+*company*: CODTECH IT SOLUTIONS
+
+*NAME*:  DANDE SRIDHAR
+
+*INTERN ID* : CT08DA47
+
+*DOMAIN*: PYTHON
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
